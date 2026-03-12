@@ -1,0 +1,14 @@
+tipo,arquivo,existe
+TABELAS,metadados_amostras.csv,True
+TABELAS,conferencia_amostras_contagens.csv,True
+TABELAS,filtro_genes_resumo.csv,True
+TABELAS,genes_filtrados.csv,True
+TABELAS,normalizacao_resumo.csv,True
+TABELAS,X_pca_exploratorio.csv,True
+TABELAS,pca_loadings_exploratorio.csv,True
+TABELAS,resultados_cv_regressao_logistica.csv,True
+TABELAS,coeficientes_regressao_logistica_pcs.csv,True
+TABELAS,importancia_genes_modelo.csv,True
+FIGURAS,pca_mut_vs_gc.png,True
+FIGURAS,matriz_confusao_regressao_logistica.png,True
+FIGURAS,roc_regressao_logistica.png,True

@@ -1,0 +1,9 @@
+Parâmetros do pipeline:
+  - Número de PCs: 5 (decisão pragmática).
+  - Penalização: L2.
+  - Folds (validação cruzada): 5 estratificados.
+  - class_weight: não utilizado (None).
+Limitações:
+  - Estrutura experimental do GSE124208 (tipos celulares e condições misturados).
+  - N pequeno (24 amostras); estimativas de desempenho podem ser instáveis.
+Extensão natural: comparar 3, 5 e 8 PCs por validação cruzada (ex.: busca de hiperparâmetro no pipeline).
