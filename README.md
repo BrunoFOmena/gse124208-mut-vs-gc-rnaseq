@@ -79,4 +79,6 @@ com foco na **caracterização da separação de classes** e não na performance
 O pipeline implementado mostra que há um **sinal transcriptômico detectável** associado ao estado mutante vs gene‑corrected em células derivadas de paciente com síndrome de Cockayne no conjunto GSE124208. A regressão logística em um espaço de 5 componentes principais alcança desempenho moderado (AUC global ≈ 0,74), com maior segurança em identificar controles GC do que mutantes.  
 Esses resultados apoiam a interpretação de que o estado mut/GC se reflete em padrões globais de expressão gênica, mas, dadas as limitações de tamanho amostral e de desenho experimental, o modelo deve ser entendido como **ferramenta exploratória de separação de classes**, não como classificador diagnóstico robusto. O código e as saídas foram organizados para facilitar reanálises futuras, ajustes de hiperparâmetros (por exemplo, variação no número de PCs) e extensões específicas por tipo celular.
 
-### Citação: Wang S, Min Z, Ji Q, Geng L et al. Rescue of premature aging defects in Cockayne syndrome stem cells by CRISPR/Cas9-mediated gene correction. Protein Cell 2020 Jan;11(1):1-22. PMID: 31037510
+### Citação: 
+
+Wang S, Min Z, Ji Q, Geng L et al. Rescue of premature aging defects in Cockayne syndrome stem cells by CRISPR/Cas9-mediated gene correction. Protein Cell 2020 Jan;11(1):1-22. PMID: 31037510
